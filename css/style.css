@@ -7,7 +7,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: white;
+    color: rgb(214, 155, 155);
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 2px #695252;
 }
